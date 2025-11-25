@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Van.Lankschot.Kempen.Api", "Van.Lankschot.Kempen.Api\Van.Lankschot.Kempen.Api.csproj", "{555EF21E-C75B-46D3-957F-560D6F0B8514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Share.Trading.Domain.Entities", "Share.Trading.Core\Share.Trading.Domain.Entities.csproj", "{F4B52E57-11C1-4442-9B8C-4389370FC136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Share.Trading.Application.Infrastructure", "Share.Trading.Application.Infrastructure\Share.Trading.Application.Infrastructure.csproj", "{A9560244-BA39-4058-A4AA-87589666F967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shares.Trading.Application", "Shares.Trading.Application\Shares.Trading.Application.csproj", "{87056963-E1B6-4BC7-BB91-C01B05801AB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Van.Lankschot.Kempen.Share.Trading.Tests", "Van.Lankschot.Kempen.Share.Trading.Tests\Van.Lankschot.Kempen.Share.Trading.Tests.csproj", "{B5955C98-C528-4B48-B6AE-C87BCBEEFD50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{555EF21E-C75B-46D3-957F-560D6F0B8514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555EF21E-C75B-46D3-957F-560D6F0B8514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555EF21E-C75B-46D3-957F-560D6F0B8514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555EF21E-C75B-46D3-957F-560D6F0B8514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B52E57-11C1-4442-9B8C-4389370FC136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B52E57-11C1-4442-9B8C-4389370FC136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B52E57-11C1-4442-9B8C-4389370FC136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B52E57-11C1-4442-9B8C-4389370FC136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9560244-BA39-4058-A4AA-87589666F967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9560244-BA39-4058-A4AA-87589666F967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9560244-BA39-4058-A4AA-87589666F967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9560244-BA39-4058-A4AA-87589666F967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87056963-E1B6-4BC7-BB91-C01B05801AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87056963-E1B6-4BC7-BB91-C01B05801AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87056963-E1B6-4BC7-BB91-C01B05801AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87056963-E1B6-4BC7-BB91-C01B05801AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5955C98-C528-4B48-B6AE-C87BCBEEFD50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5955C98-C528-4B48-B6AE-C87BCBEEFD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5955C98-C528-4B48-B6AE-C87BCBEEFD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5955C98-C528-4B48-B6AE-C87BCBEEFD50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73CB5DF7-9A19-465A-961E-503CEB3BC8A7}
+	EndGlobalSection
+EndGlobal

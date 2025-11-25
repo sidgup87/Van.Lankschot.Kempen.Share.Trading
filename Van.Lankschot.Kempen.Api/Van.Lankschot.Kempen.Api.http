@@ -1,0 +1,6 @@
+@Van.Lankschot.Kempen.Api_HostAddress = http://localhost:5096
+
+GET {{Van.Lankschot.Kempen.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
