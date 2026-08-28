@@ -5,7 +5,7 @@
         /// <summary>
         /// Portfolio Name
         /// </summary>
-        public string? Name { get; set; }
+        public string Name { get; set; }
 
         /// <summary>
         /// Cash Balance
