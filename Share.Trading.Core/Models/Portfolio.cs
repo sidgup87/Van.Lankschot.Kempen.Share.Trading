@@ -14,6 +14,6 @@
 
         /// <summary>
         /// List of Shares in the Portfolio
-        public List<SharesDetails> Shares { get; set; }
+        public List<SharesDetails>? Shares { get; set; }
     }
 }
